@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+h3{
+width: 149px;
+height: 36px;
+left: 85px;
+top: 68px;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+text-align: center;
+color: #EEEEEE;
+}
+
+.bScore{
+width: 155px;
+height: 120px;
+margin-top: 21 px;
+background: #080001;
+border-radius: 5px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+color: #F94F6D;
+}
+
+.bPoints{
+width: 155px;
+height: 45px;
+margin-top: 26px;
+background : #1B244A;
+}
+.NG{
+    margin-left:-100PX;
+    //border: solid red 5px;
+}
